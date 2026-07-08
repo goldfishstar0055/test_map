@@ -92,10 +92,20 @@ fetch("./snake.geojson")
             // ↓↓↓
             // ここを自由に編集してください
             //
-            layer.bindPopup(`
-              <b>${p.name}</b><br>
-              記録日時：${p.id}<br>
-            `);
+            const snakeCountLine = p.snake_count
+    ? `ヘビの匹数：${p.snake_count}<br>`
+    : "";
+
+const snakeTypeLine = p.snake_type
+    ? `ヘビの種類：${p.snake_type}<br>`
+    : "";
+
+layer.bindPopup(`
+    <b>${p.name}</b><br>
+    記録日時：${p.id}<br>
+    ${snakeCountLine}
+    ${snakeTypeLine}
+`);
 
         }
 
