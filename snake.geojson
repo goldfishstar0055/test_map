@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.357117,
+          33.967453
+        ]
+      },
+      "properties": {
+        "id": "2026/06/29 17:14:53",
+        "name": "道の途中"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.359904,
+          33.970159
+        ]
+      },
+      "properties": {
+        "id": "2026/07/01 9:36:53",
+        "name": "神山中学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.360421,
+          33.973654
+        ]
+      },
+      "properties": {
+        "id": "2026/07/01 10:10:30",
+        "name": "Office"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.368805,
+          33.973925
+        ]
+      },
+      "properties": {
+        "id": "2026/07/01 10:57:45",
+        "name": "河原"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.367994,
+          33.973959
+        ]
+      },
+      "properties": {
+        "id": "2026/07/01 10:59:01",
+        "name": "排水溝"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.362716,
+          33.975464
+        ]
+      },
+      "properties": {
+        "id": "2026/07/01 11:02:02",
+        "name": "なんていうんですかね"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.362669,
+          33.972957
+        ]
+      },
+      "properties": {
+        "id": "2026/07/08 9:10:35",
+        "name": "給食センターの裏"
+      }
+    }
+  ]
+}
