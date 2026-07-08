@@ -1,1 +1,1 @@
-https://goldfishstar0055.github.io/test_map/snake.geojson
+fetch(https://goldfishstar0055.github.io/test_map/snake.geojson)
